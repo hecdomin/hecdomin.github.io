@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Intro To Networking##
 ---
@@ -7,9 +7,3 @@ published: false
 Learn about the various LAN topolies, subnetting and protocols.
 
 #### OSI MODEL  ####
-
-
-
-
-
-        
