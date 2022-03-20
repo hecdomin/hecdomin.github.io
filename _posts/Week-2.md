@@ -1,17 +1,13 @@
 ---
 published: false
 ---
-## Intro To Lan ##
+## Intro To Networking##
 ---
 ### Objective ###
 Learn about the various LAN topolies, subnetting and protocols.
 
-#### Topology  ####
-1. Star Topology. Most common type. Central networking device. Reliable and able to grow/scale. 			   Network can go down if issues arise with the central netowrking device or if it fails.
-        
-2. Bus Topology. Formed by a single connection, backbone cable. Easiest and cheapest netowrk to deploy due to minimal cabling and equipment needed. However, it is slow due to data traveling through the same backbone cable. If the backbone cable is damaged or broken the whole network will go down. Has little redundancy so data errors or loss is more likely. 
+#### OSI MODEL  ####
 
-3. Ring topology. Netowrk is formed when by connecting each station to each other via network cable. Data travels in one direction allowing for easier troubleshooting but at a loss of efficiency. Any fualt in the cable or break will render the netowrk useless. 
 
 
 
